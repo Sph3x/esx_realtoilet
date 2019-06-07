@@ -5,8 +5,8 @@ You need to replace your own esx_basicneeds and if you already have esx-qalle-ne
 
 add in your server.cfg
 
-start esx_basicneeds
-start esx_toa
-start esx-qalle-needs
+- start esx_basicneeds
+- start esx_toa
+- start esx-qalle-needs
 
 CRED to qalle https://github.com/qalle-fivem for making esx-qalle-needs
