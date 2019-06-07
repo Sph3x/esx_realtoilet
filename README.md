@@ -1,4 +1,4 @@
-# ESX_Realtoilet
+# esx_realtoilet
 
 Extract all of them and add them to your resources folder!
 You need to replace your own esx_basicneeds and if you already have esx-qalle-needs replace it to.
